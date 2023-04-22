@@ -1,0 +1,6 @@
+{
+"servertype": "jlink",
+"device": "ATSAMD21G17A",
+"interface": "SWD",
+"serverpath": "C:\Program Files (x86)\SEGGER\JLinkGDBServerCL.exe"
+}
